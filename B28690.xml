@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons against further additional duties upon paper: shewing, that such a tax will lessen the publick revenue, and not improve the manufacture of the nation, but will only tend to the advantage of some of the petitioners. Humbly offered to the consideration of the honourable House of Commons.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28690</idno><idno type="EEBO-CITATION">99882377</idno>
+  <idno type="VID">190194</idno>
+  <idno type="EEBO-PROQUEST">2264205873</idno>
+  
+            <idno type="STC">Wing R468</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[43]</idno>
+            <idno type="STC">ESTC N61288</idno>
+            <idno type="PROQUEST">ocm99882377</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882377e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190194)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons against further additional duties upon paper: shewing, that such a tax will lessen the publick revenue, and not improve the manufacture of the nation, but will only tend to the advantage of some of the petitioners. Humbly offered to the consideration of the honourable House of Commons.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698 or 1702]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Presented to the House of Commons 17 February 1702.</note>
+                  <note>Dated 1698? by Wing.</note>
+                  <note>This is the second of two different items at this reel location numbered '41'.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tariff on paper --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Stationery trade --  England --  Early works to 1800.</term>
+               <term type="topical_term">Customs administration --  England --  London --  Officials and emplyees --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190194:1"/>
+            <head>
+               <hi>REASONS</hi> Against further Additional Duties upon <hi>PAPER:</hi> Shewing, That such a Tax will lessen the Publick Revenue, and not improve the Manufacture of the Nation, but will only tend to the Advantage of some of the Petitioners.</head>
+            <head type="sub">Humbly offered to the Consideration of the Honourable HOUSE of COMMONS.</head>
+            <p>THERE having been presented to this Honourable House a Petition in the Name of the <hi>Principal <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aper-Makers,</hi> in <hi>England,</hi> praying, <hi>That the Duties on Forein Paper be increa<g ref="char:EOLhyphen"/>sed:</hi> falsly insinuating that the present Duties on Forein Paper (<hi>French</hi> excepted) are very inconsiderable:</p>
+            <p n="1">I. The Truth and Fact concerning the Duties on Paper stand thus: The present Duties are Treble what they were before the late War, no Paper being now imported that pays less Duty than Fifteen <hi>per Cent.</hi> and the Charges attending the Importation are not less than Ten <hi>per Cent.</hi> more, (besides, at this time, by Reason of the Continuance of the High Duties on the Trade with <hi>France,</hi> Paper is raised above Ten <hi>per Cent.</hi> every where abroad:) So that <hi>English</hi> Paper has had for these Thirteen Years past the Advantage of Twenty Five <hi>per Cent.</hi> of Forein Paper (besides the Sixty <hi>per Cent.</hi> on <hi>French</hi>) and without further Duties will have the Advantage of Thirty Five <hi>per Cent.</hi> above all others; which 'tis presumed is a sufficient Encouragement for the Manufacture here: notwith<g ref="char:EOLhyphen"/>standing which, they are not able to make a Quantity sufficient to serve the Nation for common Uses, much less to provide for the Printing those many Books of Value and Learning, which would be printed here, if not hindred by High Duties.</p>
+            <p n="2">II. The high Price of Paper will very near destroy the Manufacture of PRINTING, which is, or would be, if not hindred by this Discouragement, more profitable to the Nation than ever the Paper-Manufacture is capable of being. And this is very apparent; for the <hi>Hollanders</hi> by a modest Compu<g ref="char:EOLhyphen"/>tation have within Ten Years increased the Riches of their Republick to the Value of Two Hundred Thousand Pounds by the Manufacture of <hi>Printing</hi> alone, the Expences thereof being not above One Third Part, the rest the Produce of Labour and Industry. For this they are in a great measure obli<g ref="char:EOLhyphen"/>ged to the Scarcity and Dearness of Paper, proper for Printing, in <hi>England;</hi> since our Nation has, and are at this Time giving many Instances that they are as able and willing to carry on the Printing of great and useful Books in all Languages, as any other in <hi>Europe;</hi> which would certainly be a great Honour and Advantage to the Publick: Whereas to encrease the Duty on Paper will encourage the <hi>Du<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> to reprint all the Copies of any Value, belonging to his Majesty's Subjects here, which for want of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Law to protect Property, they easily bring hither. And also vend them in <hi>France, Germany, Scotland, Ireland,</hi> &amp;c, to the great Detriment of <hi>England.</hi>
+            </p>
+            <p n="3">III. This Petition for New Duties, made by the <hi>Paper-Makers,</hi> (set on foot and promoted by a <hi>Stock-Jobber,</hi> who endeavours to monopolize that Trade,) is apparently nothing but a Design o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Self Interest, to a very few Persons, that by inhancing the price of Forein Paper they may have th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Opportunity of making an exorbitant profit of their own: since the <hi>English</hi> Paper-Makers never wan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Vent at a profitable rate, for as much Commodity as they are able to make; and the laying more Duty will prove almost a Prohibition, and raise the price of Paper to such an excessive Degree, that the Nation in general will be thereby very much prejudiced.</p>
+            <p n="4">IV. That the Publick will not be benefited by such a Tax, is evident; For the Custom-house ☞ Books demonstrate, That the present Duties on Paper bring in annually more than when the late Additional Tax was added to them; since it appears that the Great Duties in 1696, and 1697. did not produce clear above Five thousand eight hundred Pounds <hi>per Annum.</hi> And though by the Name of a FUND it was obtained (to the extreme Hardship of many hundred Families) the Publick did not gain by it: for what was received under the Notion of an Additional Duty, wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> really lost to the Nation, either out of the Ordinary Customs, or by the Share the King himself paid for Paper used in all his Offices.</p>
+            <p>WHEREFORE since the Manufacture of Paper bath already sufficient Encouragement to continue the Improvement thereof, and that it is impossible to make Paper enough in <hi>England</hi> to serve the Nation, by reason the Materials of wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is made are wanting here, that the Impor<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion of Foreign Paper will be so far discouraged that the <hi>Printing</hi>-Manufacture will be destroyed, and the Publick Revenues will be lessened by an Additional Duty on Paper:</p>
+            <p>The Allegation in the Petition, is to improve the Manufacturing of Paper here: But laying a fur<g ref="char:EOLhyphen"/>ther Duty on Forein Paper will be a very great Prejudice to Woollen and other Manufactures; for the Parts from which we are supplied, take off from this Kingdom such Quantities of our Product and Manufacture, that does overbalance the Importation of their Paper; and such further Duties will consequently hinder the Exporting of our own C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>modities to those parts.</p>
+            <p>
+               <hi>'Tis humbly hoped the Honourable House of Commons will not think necessary to lay a New Duty on Foreign Paper, for the Advantage of a Few Private Owners of some</hi> English <hi>Paper-Mills; when so many Hundred Families of His Majesty's Subjects, whose Livelihoods depend upon Printing and other English Manufactures, will be ruin<g ref="char:EOLhyphen"/>ed thereby; the Honour as well as interest of the Nation suffer; and when not one Penny will be really brought in for the Service of the Publick.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:190194:2"/>
+            <p>REASONS Against the PAPER-TAX.</p>
+            <pb facs="tcp:190194:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
